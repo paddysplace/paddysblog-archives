@@ -126,8 +126,8 @@ navigation_header:
   url: /categories/
 - title: search
   url: /search/
-- title: back to blog.space
-  url: blog.thisispaddys.space
+- title: return to blog.space
+  url: https://blog.thisispaddys.space
 
 navigation_footer:
 
