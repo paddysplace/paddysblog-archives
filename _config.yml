@@ -42,7 +42,7 @@ twitter:
   username: thisispaddys # jekyll-seo-tag > Owners twitter username
 author: thisispaddys # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
+  name: Patrick Toms # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://twitter.com/thisispaddys
     - https://www.facebook.com/thisispaddys
@@ -65,10 +65,10 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+    description: "My old thoughts and ideas" # The post list page content
     feature_text: |
       Welcome to the blogger archives
-    feature_image: "https://picsum.photos/2560/600?image=866"
+    feature_image: https://res.cloudinary.com/paddysplace/image/upload/e_grayscale/v1626194578/blog/archives.jpg
 
 # 6. Jekyll collections settings
 defaults:
@@ -94,7 +94,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "thisispaddys.space" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "https://www.freeiconspng.com/uploads/home-page-icon-0.png" # Site logo, also used in jekyll-seo-tag
 description: "my old posts from blogger, given a nice new home" 
 url: "https://archives.thisispaddys.space" # Site url, also used in jekyll-seo-tag
 baseurl: ""
@@ -120,14 +120,14 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: Home
-  url: /
-- title: Blog
+- title: blog
   url: /blog/
-- title: Categories
+- title: categories
   url: /categories/
-- title: Search
+- title: search
   url: /search/
+- title: back to blog.space
+  url: blog.thisispaddys.space
 
 navigation_footer:
 
