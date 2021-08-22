@@ -4,7 +4,7 @@ title: Cake Tuesday!
 date: 2006-05-16T21:07:00.000+01:00 
 author: Paddy 
 categories: cakes
- ---
+---
 Ok, here it is. Had some trouble connecting to Zara`s computer from
 mine to get the pics; so had to do it from the laptop which worked
 fine...hmm. Very strange. Anyway. As we`ve had birthday cakes for
