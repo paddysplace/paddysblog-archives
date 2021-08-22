@@ -1,7 +1,7 @@
 --- 
 layout: post 
 title: Cake Tuesday! 
-date: '2006-05-16T21:07:00'
+date: 2006-05-16T21:07:00.000+01:00 
 author: Paddy 
 categories: cakes
  ---
